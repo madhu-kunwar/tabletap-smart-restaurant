@@ -295,3 +295,11 @@ tabletap/
 ---
 ## 🧾 License
 ```
+
+---
+
+## Team project
+
+Built as a team project with Priya Shilpakar and Kaushal Sah (Nepal College of Information Technology, Group 12). Original repository: https://github.com/Nepal-College-of-Information-Technology/project-work-group-12
+
+This copy keeps the full commit history.
